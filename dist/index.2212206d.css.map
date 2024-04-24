@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["821b42fb2212206d","src/Components/Navbar/Navbar.css"],"sourcesContent":["@import \"4a35310afba245da\";\n@import \"ca4c007e636a553d\";\n",".navbar{\r\n    color: blueviolet;\r\n    font-size: 50px;\r\n}"],"names":[],"version":3,"file":"index.2212206d.css.map","sourceRoot":"/__parcel_source_root/"}
